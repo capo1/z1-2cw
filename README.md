@@ -1,7 +1,7 @@
 # Task for 2CW
 
 ## to run template:
-after download files run on terminal `composer install`
+after download files run on terminal `composer install` - this will install all  dependecies nedded from vendor
 
 ## to update css or js/vue files on terminal:
 * run `npm i`
